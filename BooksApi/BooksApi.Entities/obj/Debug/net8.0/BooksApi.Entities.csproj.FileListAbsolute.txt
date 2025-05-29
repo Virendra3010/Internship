@@ -1,0 +1,15 @@
+D:\Internship\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+D:\Internship\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+D:\Internship\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+D:\Internship\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.sourcelink.json
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+D:\Internship\BooksApi\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
